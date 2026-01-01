@@ -24,6 +24,6 @@ Markov Random Fields in this context is like a grid of variables (think a pixel 
 
 ![smrf1](smrf1.png)
 
-MS Project: [Boost Smoothing and SMRF Models (2011)](Boost_Smootihng_and_SMRF_Models.pdf)
+MS Project: [Boost Smoothing and SMRF Models (2011)](Boost_Smoothing_and_SMRF_Models.pdf)
 
 Jacob Colvin
